@@ -14,14 +14,14 @@ body {
 .ful_box {
     background: #f9f9f9;
     width: 90%;
-    height:2500px;
+    height:1800px;
     margin: 100px 0px;
     display: flex;
     justify-content: center;
     border-radius: 15px;
 }
 .text {
-    margin: 20px 0px;
+    margin: 50px 0px;
 }
 h1 {
     color: #000;
@@ -34,9 +34,34 @@ p {
     color:#858282;
 }
 .full_img {
-    margin-top: 100px;
+    margin-top: 150px;
     position:absolute;
 }
 .full_img img {
     border-radius: 15px;
+}
+.txt_inf {
+    margin-top: 750px;
+    position:absolute;
+    font-size:30px;
+    font-family:Bahnschrift SemiBold;
+}
+.list_it {
+    margin-top: 800px;
+    text-align: center;
+}
+.firpr, .secpr, .thpr, .forpr {
+    position:absolute;
+    margin-top: 830px;
+    widtH:60%;
+    font-size:20px;
+}
+.secpr {
+    margin-top:950px;
+}
+.thpr {
+    margin-top:1050px;
+}
+.forpr {
+    margin-top:1200px;
 }
