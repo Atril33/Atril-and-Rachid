@@ -4,5 +4,32 @@
     text-decoration:none;
 }
 body {
+    background: #ffffff;
+    width:100%;
+    height:auto;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.ful_box {
     background: #f9f9f9;
+    width: 90%;
+    height:2500px;
+    margin: 100px 0px;
+    display: flex;
+    justify-content: center;
+    border-radius: 15px;
+}
+.text {
+    margin: 20px 0px;
+}
+h1 {
+    color: #000;
+    font-size:24px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p {
+    font-size: 15px;
+    font-style: italic;
+    color:#858282;
 }
