@@ -33,3 +33,10 @@ p {
     font-style: italic;
     color:#858282;
 }
+.full_img {
+    margin-top: 100px;
+    position:absolute;
+}
+.full_img img {
+    border-radius: 15px;
+}
