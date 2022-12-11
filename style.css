@@ -65,3 +65,15 @@ p {
 .forpr {
     margin-top:1200px;
 }
+.kno_mor {
+    margin-top: 1500px;
+    position:absolute;
+    font-family:popins, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+    text-decoration: none;
+    color:skyblue;
+}
+a:hover {
+    text-decoration:underline;
+}
